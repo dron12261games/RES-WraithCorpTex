@@ -5,7 +5,7 @@
 Texture pack assembled by DRON12261
 Textures from "Perdition's Gate" and "Hell To Pay" by Wraith Corporation
 
-### Download - [Latest Release](https://github.com/Doom-Mapping-Modding-Lair-DRON12261/RES-ColossalDTex/releases/latest/download/ColossalDTex_v1.wad)
+### Download - [Latest Release](https://github.com/dron12261games/RES-WraithCorpTex/releases/download/v3/WraithCorpTex.v3.wad)
 
 # Screenshots:
 ![Screen1](./screens/1.PNG)
